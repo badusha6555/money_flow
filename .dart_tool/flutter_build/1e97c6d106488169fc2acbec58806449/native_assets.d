@@ -1,0 +1,1 @@
+ C:\\Users\\badus\\Desktop\\flutter\\money_flow\\.dart_tool\\flutter_build\\1e97c6d106488169fc2acbec58806449\\native_assets.yaml: 
